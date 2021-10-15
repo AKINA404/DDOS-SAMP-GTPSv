@@ -8,7 +8,7 @@ import threading
 print("""
 \u001b[31m
 >> CODE BY LeeOn123 REMAKE BY AKINA404
->> TOOLS DDOS FOR SAMP || GTPS || WEBSITE ||
+>> TOOLS DDOS FOR SAMP || GTPS || WEBSITE 
 ░█████╗░██╗░░██╗██╗███╗░░██╗░█████╗░
 ██╔══██╗██║░██╔╝██║████╗░██║██╔══██╗
 ███████║█████═╝░██║██╔██╗██║███████║
