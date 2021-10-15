@@ -1,4 +1,4 @@
 # DDOS-SAMP-GTPSv
-Don't Abuse This Tools!
+Happy Abuse LoL :) 
 # CREDIT
 https://github.com/leeon123
